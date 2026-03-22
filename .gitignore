@@ -76,3 +76,10 @@ data/processed/
 *.sbn
 *.sbx
 *.kml
+*.atx
+*.gdbindexes
+*.gdbtable
+*.gdbtablx
+*.spx
+*.gdb/
+__MACOSX/
